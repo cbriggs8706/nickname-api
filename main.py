@@ -8,7 +8,8 @@ from nickname_converter import (
     best_guess_matches,
     filter_nicknames_by_metadata,
     get_entry,
-    search_by_soundex
+    search_by_soundex,
+    suggest_close_names
 )
 
 # Load data files
@@ -40,7 +41,6 @@ def get_nickname_list(name: str):
         "region": entry.get("region", [])
     }
 
-
 @app.get("/reverse")
 def reverse_lookup(nickname: str):
     return search_by_nickname(nickname, nickname_data)
@@ -71,3 +71,37 @@ def filter_by_metadata(
         }
         for name in sorted(filtered)
     }
+
+@app.get("/search")
+def smart_search(q: str = Query(..., description="Name or nickname to search")):
+    matches = best_guess_matches(q, nickname_data)
+
+    if not matches:
+        suggestions = suggest_close_names(q, nickname_data)
+        return {
+            "matches": [],
+            "suggestions": [
+                {"name": name, "similarity": score}
+                for name, score in suggestions
+            ]
+        }
+
+    response = []
+    for name, score, sources in matches:
+        entry = get_entry(name, nickname_data)
+        response.append({
+            "name": name,
+            "nicknames": entry.get("nicknames", []),
+            "century": entry.get("century", []),
+            "region": entry.get("region", []),
+            "score": score,
+            "sources": sources,
+            "duplicate": len(sources) > 1
+        })
+
+    return sorted(response, key=lambda x: -x["score"])
+
+@app.get("/autocomplete")
+def autocomplete(q: str = Query(..., description="Partial input to suggest formal names")):
+    suggestions = suggest_close_names(q, nickname_data)
+    return [name for name, score in suggestions]
