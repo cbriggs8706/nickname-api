@@ -3,7 +3,6 @@ from thefuzz import fuzz
 import fuzzy
 soundex = fuzzy.Soundex(4)
 
-
 def load_nickname_data(filename="nickname_data.json"):
     with open(filename, "r", encoding="utf-8") as file:
         return json.load(file)
@@ -56,23 +55,24 @@ def add_variant(canonical_name, variant_name, variant_data):
 def get_nicknames(name, data, variant_data):
     """Return a list of nicknames for a given name, merging known spelling variants."""
     name_lower = name.lower()
-    nicknames = []
+    nicknames = set()
 
-    # Search normal entry
+    # Search direct name match
     for formal_name in data:
         if formal_name.lower() == name_lower:
             entry = get_entry(formal_name, data)
-            nicknames.extend(entry.get("nicknames", []))
+            nicknames.update(entry.get("nicknames", []))
 
     # Check spelling variants
     for canonical, variants in variant_data.items():
         all_names = [canonical] + variants
-        if any(name_lower == variant.lower() for variant in all_names):
+        if any(name_lower == v.lower() for v in all_names):
             for variant_name in all_names:
                 if variant_name in data:
-                    nicknames.extend(data[variant_name])
+                    entry = get_entry(variant_name, data)
+                    nicknames.update(entry.get("nicknames", []))
 
-    return sorted(set(nicknames))  # Remove duplicates and sort
+    return sorted(nicknames)
 
 
 def search_by_nickname(nickname, data):
