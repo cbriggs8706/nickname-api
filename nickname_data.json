@@ -1,131 +1,2217 @@
 {
-	"William": {
-		"nicknames": ["Will", "Bill", "Billy", "Liam"],
+	"3rd": {
+		"nicknames": ["Trey"],
 		"century": [18, 19, 20],
 		"region": ["English", "American"]
 	},
-	"Elizabeth": {
-		"nicknames": ["Liz", "Beth", "Eliza", "Betsy"],
-		"century": [17, 18, 19, 20],
-		"region": ["English"]
-	},
-	"Robert": {
-		"nicknames": ["Rob", "Bob", "Bobby", "Robbie", "Roberto"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Margaret": {
-		"nicknames": ["Maggie", "Meg", "Peggy", "Greta", "Daisy", "Margarita"],
-		"century": [19, 20],
-		"region": ["English", "Spanish"]
-	},
-	"Alexander": {
-		"nicknames": ["Alex", "Al", "Xander", "Sasha", "Alessandro"],
+	"4th": {
+		"nicknames": ["Ivy (from IV)"],
 		"century": [18, 19, 20],
 		"region": ["English", "American"]
 	},
-	"Alexandra": {
-		"nicknames": ["Alex", "Lexi", "Sasha", "Alejandra", "Alessandra"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"John": {
-		"nicknames": ["Jack", "Johnny", "Juan", "Giovanni", "Jean"],
-		"century": [19, 20],
-		"region": ["English", "Spanish"]
-	},
-	"Mary": {
-		"nicknames": ["Molly", "Polly", "Maria", "Marie", "Maura", "Masha"],
-		"century": [19, 20],
-		"region": ["English", "Spanish"]
-	},
-
-	"Katherine": {
-		"nicknames": ["Kathy", "Kate", "Katie", "Katy"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Kathryn": {
-		"nicknames": ["Katie", "Kat", "Kate", "Kathy"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-
-	"Joseph": {
-		"nicknames": ["Joe", "Joey", "Jos\u00e9", "Giuseppe", "Yusuf"],
-		"century": [19, 20],
-		"region": ["English", "Spanish"]
-	},
-	"Josephine": {
-		"nicknames": ["Josie", "Jo", "Fina", "Pina", "Pepi"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"James": {
-		"nicknames": ["Jim", "Jimmy", "Jamie", "Santiago", "Giacomo"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Henry": {
-		"nicknames": ["Harry", "Hank", "Henri", "Enrique"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Edward": {
-		"nicknames": ["Ed", "Eddie", "Ted", "Teddy", "Eduardo"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Helen": {
-		"nicknames": ["Nell", "Nellie", "Lena", "Elena", "Ellen"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Michael": {
-		"nicknames": ["Mike", "Mikey", "Mikhail", "Miguel", "Mick"],
-		"century": [19, 20],
-		"region": ["English", "Spanish"]
-	},
-	"Michelle": {
-		"nicknames": ["Shelly", "Misha", "Michi", "Miki"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Thomas": {
-		"nicknames": ["Tom", "Tommy", "Tomas", "Tam\u00e1s", "Tomek"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Sarah": {
-		"nicknames": ["Sally", "Sadie", "Sarita", "Sarai"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Susan": {
-		"nicknames": ["Sue", "Susie", "Suki", "Zuzanna", "Susana"],
-		"century": [19, 20],
-		"region": ["English", "Spanish"]
-	},
-	"Anthony": {
-		"nicknames": ["Tony", "Toni", "Antonio", "Antoine", "Ant"],
+	"5th": {
+		"nicknames": ["Quince", "Quint"],
 		"century": [18, 19, 20],
-		"region": ["English", "Spanish", "American"]
+		"region": ["English", "American"]
+	},
+	"Abner": {
+		"nicknames": ["Ab"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adam": {
+		"nicknames": ["Ad", "Ade"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adelbert": {
+		"nicknames": ["Ad", "Ade", "Albert", "Bert", "Del", "Delbert", "Elbert"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adolph": {
+		"nicknames": ["Ad", "Dolph", "Olph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adolphus": {
+		"nicknames": ["Ad", "Dolph", "Olph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alan": {
+		"nicknames": ["Al"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alanson": {
+		"nicknames": ["Alan", "Al", "Lonson"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Albert": {
+		"nicknames": ["Al", "Bert", "Elbert", "Bertie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Aldrich": {
+		"nicknames": ["Al", "Rich", "Richie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alfred": {
+		"nicknames": ["Al", "Fred", "Freddie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alonzo": {
+		"nicknames": ["Al", "Lon", "Lonzo"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Anderson": {
+		"nicknames": ["Ander", "Andy", "Sonny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Andrew": {
 		"nicknames": ["Andy", "Drew", "Andr\u00e9s", "Andrei"],
 		"century": [18, 19, 20],
 		"region": ["English", "Spanish", "American"]
 	},
-	"Rebecca": {
-		"nicknames": ["Becky", "Becca", "Reba", "Rivka"],
+	"Archibald": {
+		"nicknames": ["Archie", "Baldo"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Arthur": {
+		"nicknames": ["Art"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Asaph": {
+		"nicknames": ["Asa"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Asahel": {
+		"nicknames": ["Asa"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Azariah": {
+		"nicknames": ["Aze", "Riah"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Augustus": {
+		"nicknames": ["August", "Austin", "Gus"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Augustine": {
+		"nicknames": ["August", "Austin", "Gus"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Barnabas": {
+		"nicknames": ["Barney"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Bartholomew": {
+		"nicknames": ["Bart", "Bartel", "Bat", "Mees", "Meus"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Benjamin": {
+		"nicknames": ["Ben", "Bennie", "Benjy", "Jamie", "Benny", "Benji"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Bradford": {
+		"nicknames": ["Brad", "Ford"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Broderick": {
+		"nicknames": ["Ricky", "Brady", "Brody"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Calvin": {
+		"nicknames": ["Cal", "Vin", "Vinny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cameron": {
+		"nicknames": ["Cam", "Ronny", "Ron"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Casey": {
+		"nicknames": ["K.C."],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kasey": {
+		"nicknames": ["K.C."],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cedric": {
+		"nicknames": ["Ced", "Rick", "Ricky"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Charles": {
+		"nicknames": [
+			"Charlie",
+			"Chuck",
+			"Chas",
+			"Carl",
+			"Carlos",
+			"Chaz",
+			"Chick"
+		],
+		"century": [18, 19, 20],
+		"region": ["American", "English", "Spanish", "German"]
+	},
+	"Chauncey": {
+		"nicknames": ["Chan"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Chester": {
+		"nicknames": ["Chet"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Christian": {
+		"nicknames": ["Chris", "Kit"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Clarence": {
+		"nicknames": ["Clair", "Clare", "Clarry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Clement": {
+		"nicknames": ["Clem"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Clifton": {
+		"nicknames": ["Cliff", "Tony"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Columbus": {
+		"nicknames": ["Clum"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Conrad": {
+		"nicknames": ["Con", "Conny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cornelius": {
+		"nicknames": ["Con", "Conny", "Corny", "Niel", "Neil"],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Dutch"]
+	},
+	"Courtney": {
+		"nicknames": ["Court", "Curt"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cyrenius": {
+		"nicknames": ["Cene", "Cy", "Renius", "Serene", "Swene"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Curtis": {
+		"nicknames": ["Curt"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Dalton": {
+		"nicknames": ["Dahl", "Dal"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"David": {
+		"nicknames": ["Dave", "Davey", "Day", "Davy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Delbert": {
+		"nicknames": ["Bert", "Del"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Dennis": {
+		"nicknames": ["Denny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Dennison": {
+		"nicknames": ["Denny", "Dennis"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Derrick": {
+		"nicknames": ["Eric", "Rick", "Ricky"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Donald": {
+		"nicknames": ["Don", "Donny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ebenezer": {
+		"nicknames": ["Eben", "Eb", "Ebbie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Edmund": {
+		"nicknames": ["Ed", "Ned", "Ted"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Edwin": {
+		"nicknames": ["Ed", "Ned", "Win"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Eleazer": {
+		"nicknames": ["Lazar"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elias": {
+		"nicknames": ["Eli", "Lee", "Lias"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elijah": {
+		"nicknames": ["Eli", "Lige"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Eliphalet": {
+		"nicknames": ["Left"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elisha": {
+		"nicknames": ["Eli", "Lish"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ellswood": {
+		"nicknames": ["Elsey", "Elze", "Elsie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elswood": {
+		"nicknames": ["Elsey", "Elze", "Elsie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elwood": {
+		"nicknames": ["Woody"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Emanuel": {
+		"nicknames": ["Manny", "Manuel"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ephraim": {
+		"nicknames": ["Eph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Epaphroditius": {
+		"nicknames": ["Dite", "Ditus", "Dyce", "Dyche", "Eppa"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Eric": {
+		"nicknames": ["Rick", "Ricky"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ernest": {
+		"nicknames": ["Ernie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ezekiel": {
+		"nicknames": ["Ez", "Zeke"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ezra": {
+		"nicknames": ["Ez"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ferdinand": {
+		"nicknames": ["Ferdie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Francis": {
+		"nicknames": ["Frank", "Fran", "Frankie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Franklin": {
+		"nicknames": ["Frank", "Fran"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Frederick": {
+		"nicknames": ["Fred", "Freddy", "Fritz"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Gabriel": {
+		"nicknames": ["Gabe", "Gabby"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Geoffrey": {
+		"nicknames": ["Geoff", "Jeff"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jeffrey": {
+		"nicknames": ["Geoff", "Jeff"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Gerald": {
+		"nicknames": ["Jerry", "Gerry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Gilbert": {
+		"nicknames": ["Gil", "Bert", "Wilber", "Wilbur"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Henry": {
+		"nicknames": ["Hal", "Hank", "Harry", "Henri", "Enrique"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Herbert": {
+		"nicknames": ["Herb", "Bert"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hezekiah": {
+		"nicknames": ["Hez", "Hy", "Kiah"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hiram": {
+		"nicknames": ["Hy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hopkins": {
+		"nicknames": ["Hop", "Hopp"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Horace": {
+		"nicknames": ["Horry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hubert": {
+		"nicknames": ["Hugh", "Bert", "Hub"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ignatius": {
+		"nicknames": ["Iggy", "Nace", "Nate", "Natius"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Isaac": {
+		"nicknames": ["Ike", "Zeke"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Isidore": {
+		"nicknames": ["Izzy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jacobus": {
+		"nicknames": ["Jaap", "Jake", "Jay", "Jacob"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"James": {
+		"nicknames": ["Jamie", "Jem", "Jim", "Jimmy", "Santiago", "Giacomo"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jedidiah": {
+		"nicknames": ["Jed"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jefferson": {
+		"nicknames": ["Jeff", "Sonny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jehiel": {
+		"nicknames": ["Hiel"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jeremiah": {
+		"nicknames": ["Jereme", "Jerry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"John": {
+		"nicknames": [
+			"Jack",
+			"Jock",
+			"Johnny",
+			"Jonathan",
+			"Juan",
+			"Giovanni",
+			"Jean"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Spanish"]
+	},
+	"Joseph": {
+		"nicknames": [
+			"Joe",
+			"Joey",
+			"Jos",
+			"Jody",
+			"Jos\u00e9",
+			"Giuseppe",
+			"Yusuf"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Spanish"]
+	},
+	"Joshua": {
+		"nicknames": ["Josh", "Jos"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Josiah": {
+		"nicknames": ["Jos"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Judson": {
+		"nicknames": ["Jud", "Sonny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Julias": {
+		"nicknames": ["Jule"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Julian": {
+		"nicknames": ["Jule"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Junior": {
+		"nicknames": ["JR", "June", "Junie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kenneth": {
+		"nicknames": ["Ken", "Kenny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kendall": {
+		"nicknames": ["Ken", "Kenny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kendrick": {
+		"nicknames": ["Ken", "Kenny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kent": {
+		"nicknames": ["Ken", "Kenny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kingston": {
+		"nicknames": ["King"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kingsley": {
+		"nicknames": ["King"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lafayette": {
+		"nicknames": ["Fate", "Laffie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lamont": {
+		"nicknames": ["Monty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lawrence": {
+		"nicknames": ["Larry", "Lon", "Lonny", "Lorne", "Lorry", "Lawrie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Laurence": {
+		"nicknames": ["Larry", "Lon", "Lonny", "Lorne", "Lorry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lemuel": {
+		"nicknames": ["Lem"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Leonard": {
+		"nicknames": ["Leo", "Leon", "Len", "Lenny", "Lineau"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"LeRoy": {
+		"nicknames": ["L.R.", "Lee", "Roy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Leslie": {
+		"nicknames": ["Les"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lester": {
+		"nicknames": ["Les"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Levi": {
+		"nicknames": ["Lee"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lincoln": {
+		"nicknames": ["Link"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lorenzo": {
+		"nicknames": ["Loren"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Louis": {
+		"nicknames": ["Lou", "Louie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lucias": {
+		"nicknames": ["Luke"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lucas": {
+		"nicknames": ["Luke"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Luther": {
+		"nicknames": ["Luke"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lyndon": {
+		"nicknames": ["Lynn", "Lindy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Marcus": {
+		"nicknames": ["Mark"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Martin": {
+		"nicknames": ["Marty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Marvin": {
+		"nicknames": ["Marv"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Matthias": {
+		"nicknames": ["Matt", "Thias", "Thys"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Maurice": {
+		"nicknames": ["Morey"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Morris": {
+		"nicknames": ["Morry", "Morrie", "Morey"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Mervyn": {
+		"nicknames": ["Merv"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Mitchell": {
+		"nicknames": ["Mitch"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Montgomery": {
+		"nicknames": ["Monty", "Gum"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Morton": {
+		"nicknames": ["Mort", "Morty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Napoleon": {
+		"nicknames": ["Nap", "Nappy", "Leon"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Nathan": {
+		"nicknames": ["Nate"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Nathaniel": {
+		"nicknames": ["Nathan", "Nate", "Nat", "Natty", "Than"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+
+	"Norbert": {
+		"nicknames": ["Bert", "Norby"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Obadiah": {
+		"nicknames": ["Diah", "Dyer", "Obed", "Obie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Oliver": {
+		"nicknames": ["Ollie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Oswald": {
+		"nicknames": ["Ossy", "Ozzy", "Waldo"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Patrick": {
+		"nicknames": ["Paddy", "Pat", "Patsy", "Pate", "Peter", "Rick", "Patricio"],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Spanish"]
+	},
+	"Pelegrine": {
+		"nicknames": ["Perry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Percival": {
+		"nicknames": ["Percy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Peter": {
+		"nicknames": ["Pete", "Pate"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Philetus": {
+		"nicknames": ["Leet", "Phil"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Phillip": {
+		"nicknames": ["Phil"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Prescott": {
+		"nicknames": ["Scott", "Scotty", "Pres"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Raphael": {
+		"nicknames": ["Ralph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Randolph": {
+		"nicknames": ["Randy", "Dolph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Raymond": {
+		"nicknames": ["Ray"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Reginald": {
+		"nicknames": ["Reg", "Reggie", "Naldo", "Renny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Reuben": {
+		"nicknames": ["Rube"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Richard": {
+		"nicknames": ["Dick", "Dickon", "Rich", "Rick", "Ricky"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Robert": {
+		"nicknames": [
+			"Bob",
+			"Dob",
+			"Dobbin",
+			"Hob",
+			"Hobkin",
+			"Rob",
+			"Robby",
+			"Bobby",
+			"Robin",
+			"Rupert",
+			"Robbie",
+			"Roberto"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Spanish"]
+	},
+	"Roger": {
+		"nicknames": ["Roge", "Hodge", "Rod"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rodger": {
+		"nicknames": ["Roge", "Hodge", "Rod"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Roland": {
+		"nicknames": ["Lanny", "Rollo", "Rolly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Orlando": {
+		"nicknames": ["Roland", "Lanny", "Rollo", "Rolly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ronald": {
+		"nicknames": ["Ron", "Ronny", "Naldo"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rudolph": {
+		"nicknames": ["Dolph", "Olph", "Rolf", "Rudy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rudolphus": {
+		"nicknames": ["Dolph", "Olph", "Rolf", "Rudy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rupert": {
+		"nicknames": [
+			"Bob",
+			"Dob",
+			"Dobbin",
+			"Hob",
+			"Hobkin",
+			"Rob",
+			"Robby",
+			"Bobby",
+			"Robin"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Russell": {
+		"nicknames": ["Russ", "Rusty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Seymour": {
+		"nicknames": ["Morey"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Shelton": {
+		"nicknames": ["Shelly", "Shel", "Tony"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sheridan": {
+		"nicknames": ["Dan", "Danny", "Sher"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sidney": {
+		"nicknames": ["Sid", "Syd"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Silas": {
+		"nicknames": ["Si"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Simon": {
+		"nicknames": ["Si", "Sion"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Simeon": {
+		"nicknames": ["Si", "Sion"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Smith": {
+		"nicknames": ["Smitty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Solomon": {
+		"nicknames": ["Sal", "Salmon", "Saul", "Sol", "Solly", "Zolly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Stephen": {
+		"nicknames": ["Steve", "Steph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Steven": {
+		"nicknames": ["Steve", "Steph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sullivan": {
+		"nicknames": ["Sully", "Van"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sylvester": {
+		"nicknames": ["Si", "Sly", "Sy", "Syl", "Vester", "Vet", "Vessie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Terence": {
+		"nicknames": ["Terry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Thaddeus": {
+		"nicknames": ["Thad"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Theodore": {
+		"nicknames": ["Ted", "Teddy", "Theo"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Thomas": {
+		"nicknames": ["Tom", "Thom", "Tommy", "Tomas", "Tam\u00e1s", "Tomek"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Timothy": {
+		"nicknames": ["Tim", "Timmy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Tobias": {
+		"nicknames": ["Toby", "Bias"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Uriah": {
+		"nicknames": ["Riah"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Valentine": {
+		"nicknames": ["Felty", "Feltie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Vincent": {
+		"nicknames": ["Vince", "Vin", "Vinny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Vinson": {
+		"nicknames": ["Vince", "Vin", "Vinny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Wallace": {
+		"nicknames": ["Wally"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Washington": {
+		"nicknames": ["Wash", "George"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Wilber": {
+		"nicknames": ["Will"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Wilbur": {
+		"nicknames": ["Will"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Wilfred": {
+		"nicknames": ["Will", "Willie", "Fred"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"William": {
+		"nicknames": ["Will", "Willie", "Bill", "Billy", "Bell", "Bela", "Liam"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Winfield": {
+		"nicknames": ["Win", "Winny", "Field"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Woodrow": {
+		"nicknames": ["Wood", "Woody", "Drew"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Zachariah": {
+		"nicknames": ["Zach", "Zachy", "Zeke"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Zebedee": {
+		"nicknames": ["Zeb"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Zedediah": {
+		"nicknames": ["Zed", "Diah", "Dyer"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Zephaniah": {
+		"nicknames": ["Zeph"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adaline": {
+		"nicknames": ["Ada", "Addy", "Dell", "Delia", "Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adeline": {
+		"nicknames": ["Ada", "Addy", "Dell", "Delia", "Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adelaide": {
+		"nicknames": ["Addy", "Adele", "Dell", "Della", "Heidi"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Adelphia": {
+		"nicknames": ["Adele", "Addy", "Dell", "Delphia", "Philly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Agatha": {
+		"nicknames": ["Aggy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Agnes": {
+		"nicknames": ["Aggy", "Inez", "Nessa"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Aileen": {
+		"nicknames": ["Allie", "Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alberta": {
+		"nicknames": ["Allie", "Bert", "Bertie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alexandra": {
+		"nicknames": [
+			"Alex",
+			"Lexi",
+			"Sasha",
+			"Alejandra",
+			"Alessandra",
+			"Alla",
+			"Sandy"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alfreda": {
+		"nicknames": ["Alfy", "Freda", "Freddy", "Frieda"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alice": {
+		"nicknames": ["Allie", "Elsie", "Lisa"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Alicia": {
+		"nicknames": ["Allie", "Elsie", "Lisa"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Almena": {
+		"nicknames": ["Allie", "Mena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+
+	"Amelia": {
+		"nicknames": ["Emily", "Mel", "Millie", "Amy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Anne": {
+		"nicknames": ["Annie", "Nan", "Nanny", "Nana", "Nancy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Ann": {
+		"nicknames": ["Annie", "Nan", "Nanny", "Nana", "Nancy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Antonia": {
+		"nicknames": ["Ann", "Tony", "Netta"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Antoinette": {
+		"nicknames": ["Ann", "Tony", "Netta"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Arabelle": {
+		"nicknames": ["Ara", "Arry", "Belle", "Bella"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Arabella": {
+		"nicknames": ["Ara", "Arry", "Belle", "Bella"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Augustina": {
+		"nicknames": ["Aggy", "Gatsy", "Gussie", "Tina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Arlene": {
+		"nicknames": ["Arly", "Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Armena": {
+		"nicknames": ["Arry", "Mena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Asenath": {
+		"nicknames": ["Assene", "Natty", "Sene"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Augusta": {
+		"nicknames": ["Aggy", "Gatsy", "Gussie", "Tina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Beatrice": {
+		"nicknames": ["Bea", "Trisha", "Trix", "Trixie", "Bee", "Tris", "Betsy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Belinda": {
+		"nicknames": ["Belle", "Linda"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Bernice": {
+		"nicknames": ["Bunny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Bertha": {
+		"nicknames": ["Birdie", "Bert", "Bertie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Bridget": {
+		"nicknames": ["Biddie", "Biddy", "Bridgie", "Bridie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Camille": {
+		"nicknames": ["Cammie", "Millie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Carol": {
+		"nicknames": ["Carrie", "Cassie", "Lynn"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Carolyn": {
+		"nicknames": ["Carrie", "Cassie", "Lynn"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cassandra": {
+		"nicknames": ["Cassie", "Sandra", "Sandy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Catherine": {
+		"nicknames": [
+			"Cathy",
+			"Kathy",
+			"Katy",
+			"Cassie",
+			"Kay",
+			"Kit",
+			"Kittie",
+			"Trina",
+			"Lena",
+			"Cate",
+			"Catie",
+			"Kate",
+			"Katie"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "French"]
+	},
+	"Cathleen": {
+		"nicknames": [
+			"Cathy",
+			"Kathy",
+			"Katy",
+			"Cassie",
+			"Kay",
+			"Kit",
+			"Kittie",
+			"Trina",
+			"Lena"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kathleen": {
+		"nicknames": [
+			"Cathy",
+			"Kathy",
+			"Katy",
+			"Cassie",
+			"Kay",
+			"Kit",
+			"Kittie",
+			"Trina",
+			"Lena"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cecilia": {
+		"nicknames": ["Celia", "Cissy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Charlotte": {
+		"nicknames": ["Char", "Lottie", "Lotta", "Sherry", "Charlie", "Shar"],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "French"]
+	},
+	"Christiana": {
+		"nicknames": [
+			"Chris",
+			"Kris",
+			"Crissy",
+			"Christy",
+			"Kristy",
+			"Tina",
+			"Ann"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Christine": {
+		"nicknames": ["Chris", "Kris", "Crissy", "Christy", "Kristy", "Tina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kristine": {
+		"nicknames": ["Chris", "Kris", "Crissy", "Christy", "Kristy", "Tina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Clarinda": {
+		"nicknames": ["Clara"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Clarissa": {
+		"nicknames": ["Clara", "Cissy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Constance": {
+		"nicknames": ["Connie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cordelia": {
+		"nicknames": ["Cordy", "Delia"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Cornelia": {
+		"nicknames": ["Corny", "Nelle", "Nelly", "Nelia", "Cornie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Darlene": {
+		"nicknames": ["Lena", "Darry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Deborah": {
+		"nicknames": ["Debby", "Debbie", "Deb", "Debs"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Debora": {
+		"nicknames": ["Debby", "Debbie", "Deb"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Deliverance": {
+		"nicknames": ["Della", "Delly", "Dilly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Delores": {
+		"nicknames": ["Dell", "Lola", "Lolly", "Della", "Dee"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Dicey": {
+		"nicknames": ["Dicie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Dorcus": {
+		"nicknames": ["Darkey"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Dorothy": {
+		"nicknames": ["Dolly", "Dot", "Dortha", "Dotty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Edith": {
+		"nicknames": ["Edie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Eleanor": {
+		"nicknames": [
+			"Elaine",
+			"Ellen",
+			"Ellie",
+			"Lanna",
+			"Lenora",
+			"Nelly",
+			"Nora",
+			"Ella",
+			"Lenore"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elmira": {
+		"nicknames": ["Elly", "Ellie", "Mira"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elouise": {
+		"nicknames": ["Louise"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Elsie": {
+		"nicknames": ["El", "Ellie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Emeline": {
+		"nicknames": ["Em", "Emily", "Emma", "Emmy", "Milly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Estelle": {
+		"nicknames": ["Essy", "Stella"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Estella": {
+		"nicknames": ["Essy", "Stella"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Evaline": {
+		"nicknames": ["Eva", "Eve", "Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Faith": {
+		"nicknames": ["Fay"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Fidelia": {
+		"nicknames": ["Delia"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Florence": {
+		"nicknames": ["Flo", "Flora", "Flossy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Fredericka": {
+		"nicknames": ["Freda", "Freddy", "Ricka", "Frieda"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Gabrielle": {
+		"nicknames": ["Gabby", "Ella"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Gabriella": {
+		"nicknames": ["Gabby", "Ella"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Genevieve": {
+		"nicknames": ["Eve", "Jean", "Jenny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Georgia": {
+		"nicknames": ["Georgie", "Georgy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Geraldine": {
+		"nicknames": ["Dina", "Gerry", "Gerrie", "Jerry"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Gertrude": {
+		"nicknames": ["Trudy", "Gert", "Gertie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Gwendolyn": {
+		"nicknames": ["Gwen", "Wendy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hannah": {
+		"nicknames": ["Nan", "Nanny", "Anna"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Harriet": {
+		"nicknames": ["Hattie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Helen": {
+		"nicknames": ["Ella", "Ellen", "Ellie", "Lena", "Nell", "Nellie", "Elena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Helene": {
+		"nicknames": ["Ella", "Ellen", "Ellie", "Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Heloise": {
+		"nicknames": ["Eloise", "Lois"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Henrietta": {
+		"nicknames": ["Etta", "Etty", "Hank", "Nettie", "Retta"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hermione": {
+		"nicknames": ["Hermie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hepsibah": {
+		"nicknames": ["Hipsie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hephsibah": {
+		"nicknames": ["Hipsie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Hester": {
+		"nicknames": ["Hessy", "Esther", "Hetty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Irene": {
+		"nicknames": ["Rena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Isabel": {
+		"nicknames": ["Bella", "Belle", "Ib", "Issy", "Nib", "Nibby", "Tibbie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Isabella": {
+		"nicknames": [
+			"Bella",
+			"Belle",
+			"Ib",
+			"Issy",
+			"Nib",
+			"Nibby",
+			"Tibbie",
+			"Isa",
+			"Izzy"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Spanish", "Italian"]
+	},
+	"Isabelle": {
+		"nicknames": ["Bella", "Belle", "Ib", "Issy", "Nib", "Nibby", "Tibbie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Isadora": {
+		"nicknames": ["Dora", "Issy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jane": {
+		"nicknames": ["Janie", "Jean", "Jennie", "Jessie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Janet": {
+		"nicknames": ["Jessie", "Jan"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jean": {
+		"nicknames": ["Jane", "Jeannie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jeanne": {
+		"nicknames": ["Jane", "Jeannie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jeanette": {
+		"nicknames": ["Janet", "Jean", "Jessie", "Nettie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jemima": {
+		"nicknames": ["Mima"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jennifer": {
+		"nicknames": ["Jennie", "Jen", "Jenny", "Jenn"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Jessica": {
+		"nicknames": ["Jessie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Joan": {
+		"nicknames": ["Nonie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Joanna": {
+		"nicknames": ["Joan", "Jody", "Hannah", "Nonie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Johannah": {
+		"nicknames": ["Joan", "Jody", "Hannah", "Nonie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Joyce": {
+		"nicknames": ["Joy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Juanita": {
+		"nicknames": ["Nettie", "Nita"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Julia": {
+		"nicknames": ["Julie", "Jill"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Keziah": {
+		"nicknames": ["Kizza", "Kizzie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lavina": {
+		"nicknames": ["Ina", "Vina", "Viney"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lavinia": {
+		"nicknames": ["Ina", "Vina", "Viney"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lenora": {
+		"nicknames": ["Nora", "Lee"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Letitia": {
+		"nicknames": ["Lettie", "Lettice", "Titia", "Tish"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lillah": {
+		"nicknames": ["Lily", "Lilly", "Lil", "Lolly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lillian": {
+		"nicknames": ["Lil", "Lilly", "Lolly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Linda": {
+		"nicknames": ["Lindy", "Lynn"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Loretta": {
+		"nicknames": ["Etta", "Lorrie", "Retta"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lorraine": {
+		"nicknames": ["Lorrie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Louise": {
+		"nicknames": ["Lou", "Eliza", "Lois"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Louisa": {
+		"nicknames": ["Lou", "Eliza", "Lois"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lucille": {
+		"nicknames": ["Lu", "Lou", "Cille", "Lucy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lucinda": {
+		"nicknames": ["Cindy", "Lu", "Lou", "Lucy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Luella": {
+		"nicknames": ["Ella", "Lu", "Lula"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lydia": {
+		"nicknames": ["Lyddy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Lidia": {
+		"nicknames": ["Lyddy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Madeline": {
+		"nicknames": ["Lena", "Maddy", "Madge", "Magda", "Maggie", "Maida", "Maud"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Magdelina": {
+		"nicknames": ["Lena", "Madge", "Magda"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Mahala": {
+		"nicknames": ["Hallie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Margaretta": {
+		"nicknames": [
+			"Daisy",
+			"Gretta",
+			"Madge",
+			"Maggie",
+			"Meg",
+			"Midge",
+			"Peg",
+			"Peggy",
+			"Rita",
+			"Margery",
+			"Marge",
+			"Margie"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Martha": {
+		"nicknames": ["Marty", "Mat", "Mattie", "Patsy", "Patty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Mary": {
+		"nicknames": [
+			"Molly",
+			"Polly",
+			"Maria",
+			"Marie",
+			"Maura",
+			"Masha",
+			"Mae",
+			"Mamie",
+			"Mitzi"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "Spanish", "American"]
+	},
+	"Matilda": {
+		"nicknames": ["Tilly", "Matty", "Maud"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Mehitabel": {
+		"nicknames": ["Hetty", "Hitty", "Mabel", "Mitty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Melinda": {
+		"nicknames": ["Linda", "Lindy", "Mel", "Mindy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Melissa": {
+		"nicknames": ["Lisa", "Lissa", "Mel", "Milly", "Missy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Michelle": {
+		"nicknames": ["Shelly", "Misha", "Michi", "Miki", "Mickey"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Mildred": {
+		"nicknames": ["Milly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Millicent": {
+		"nicknames": ["Milly", "Missy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Minerva": {
+		"nicknames": ["Minnie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Miranda": {
+		"nicknames": ["Mandy", "Mira", "Randy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Miriam": {
+		"nicknames": ["Mimi", "Mitzi"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Nancy": {
+		"nicknames": ["Nan", "Nanny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Natalie": {
+		"nicknames": ["Natty", "Nettie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Olive": {
+		"nicknames": ["Ollie", "Nollie", "Livia"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Parmelia": {
+		"nicknames": ["Amelia", "Melia", "Milly"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Patience": {
+		"nicknames": ["Pat", "Patty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Patricia": {
+		"nicknames": ["Pat", "Patty", "Patsy", "Tricia", "Patti", "Trish"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Paula": {
+		"nicknames": ["Polly", "Lina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Paulina": {
+		"nicknames": ["Polly", "Lina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Penelope": {
+		"nicknames": ["Penny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Philinda": {
+		"nicknames": ["Linda"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Priscilla": {
+		"nicknames": ["Cissy", "Cilla", "Prissy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Prudence": {
+		"nicknames": ["Prudy", "Prue"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rachel": {
+		"nicknames": ["Shelly", "Rach", "Ray"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Regina": {
+		"nicknames": ["Reggie", "Gina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Relief": {
+		"nicknames": ["Leafa"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Roberta": {
+		"nicknames": ["Bobbie", "Robbie", "Bert", "Bertie", "Birdie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rosabel": {
+		"nicknames": ["Belle", "Rosa", "Rose", "Roz"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rosabella": {
+		"nicknames": ["Belle", "Rosa", "Rose", "Roz"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rosalyn": {
+		"nicknames": ["Rosa", "Rose", "Linda", "Roz"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Rosalinda": {
+		"nicknames": ["Rosa", "Rose", "Linda", "Roz"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Roseann": {
+		"nicknames": ["Rose", "Ann", "Roz", "Rosie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Roseanna": {
+		"nicknames": ["Rose", "Ann", "Roz", "Rosie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Roxanne": {
+		"nicknames": ["Ann", "Rose", "Roxie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Roxanna": {
+		"nicknames": ["Ann", "Rose", "Roxie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sabrina": {
+		"nicknames": ["Brina"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sandra": {
+		"nicknames": ["Sandy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Selina": {
+		"nicknames": ["Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Celina": {
+		"nicknames": ["Lena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Serena": {
+		"nicknames": ["Rena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Shirley": {
+		"nicknames": ["Lee", "Sherry", "Shirl"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sonia": {
+		"nicknames": ["Sonie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Submit": {
+		"nicknames": ["Mitty"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Susan": {
+		"nicknames": [
+			"Sue",
+			"Sukey",
+			"Susie",
+			"Hannah",
+			"Suki",
+			"Zuzanna",
+			"Susana"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Spanish"]
+	},
+	"Susannah": {
+		"nicknames": ["Sue", "Sukey", "Susie", "Hannah"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Tabitha": {
+		"nicknames": ["Tabby"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Theresa": {
+		"nicknames": [
+			"Terry",
+			"Tess",
+			"Tessie",
+			"Tessa",
+			"Thirza",
+			"Thursa",
+			"Tracy"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Tryphena": {
+		"nicknames": ["Phena"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Valerie": {
+		"nicknames": ["Val"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Vanessa": {
+		"nicknames": ["Nessa", "Essa", "Vanna"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Veronica": {
+		"nicknames": ["Franky", "Frony", "Ron", "Ronnie", "Ronna", "Vonnie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Virginia": {
+		"nicknames": ["Ginger", "Ginny", "Jane", "Jennie", "Virgy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Wilhelmina": {
+		"nicknames": ["Mina", "Willie", "Wilma", "Minnie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Winifred": {
+		"nicknames": ["Winnie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Named after father": {
+		"nicknames": ["Chip", "Skip", "Sonny"],
+		"century": [18, 19, 20],
+		"region": ["American"]
+	},
+	"Elizabeth": {
+		"nicknames": [
+			"Eliza",
+			"Bess",
+			"Bessie",
+			"Beth",
+			"Betsy",
+			"Betty",
+			"Lib",
+			"Libby",
+			"Liza",
+			"Lisa",
+			"Liz",
+			"Lizzie"
+		],
+		"century": [17, 18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Margaret": {
+		"nicknames": [
+			"Daisy",
+			"Gretta",
+			"Madge",
+			"Maggie",
+			"Meg",
+			"Midge",
+			"Peg",
+			"Peggy",
+			"Rita",
+			"Margery",
+			"Marge",
+			"Margie",
+			"Greta",
+			"Margarita"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American", "Spanish"]
+	},
+	"Alexander": {
+		"nicknames": [
+			"Alex",
+			"Al",
+			"Xander",
+			"Sasha",
+			"Alessandro",
+			"Eleck",
+			"Sandy"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+
+	"Abraham": {
+		"nicknames": ["Abe"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Abram": {
+		"nicknames": ["Abe"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Katherine": {
+		"nicknames": [
+			"Cathy",
+			"Kathy",
+			"Katy",
+			"Cassie",
+			"Kay",
+			"Kit",
+			"Kittie",
+			"Trina",
+			"Lena",
+			"Katie"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Kathryn": {
+		"nicknames": ["Katie", "Kat", "Kate", "Kathy"],
 		"century": [19, 20],
 		"region": ["English"]
 	},
-
+	"Josephine": {
+		"nicknames": [
+			"Jody",
+			"Jo",
+			"Joey",
+			"Josey",
+			"Fina",
+			"Josie",
+			"Fina",
+			"Pina",
+			"Pepi"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Edward": {
+		"nicknames": ["Ed", "Eddie", "Eddy", "Ned", "Ted", "Teddy", "Eduardo"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Michael": {
+		"nicknames": [
+			"Mike",
+			"Micah",
+			"Mick",
+			"Micky",
+			"Mikey",
+			"Mikhail",
+			"Miguel"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Sarah": {
+		"nicknames": ["Sally", "Sadie", "Sarita", "Sarai"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Anthony": {
+		"nicknames": ["Tony", "Toni", "Antonio", "Antoine", "Ant"],
+		"century": [18, 19, 20],
+		"region": ["English", "Spanish", "American"]
+	},
+	"Rebecca": {
+		"nicknames": ["Reba", "Becca", "Becky", "Beck", "Rivka"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Aaron": {
+		"nicknames": ["Erin", "Ron", "Ronnie"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
 	"Daniel": {
 		"nicknames": ["Dan", "Danny", "Dani", "Daan", "Daniil"],
-		"century": [19, 20],
-		"region": ["English"]
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Danielle": {
 		"nicknames": ["Dani", "Elle", "Dany", "Daniela"],
@@ -133,24 +2219,22 @@
 		"region": ["English", "Spanish"]
 	},
 	"Nicholas": {
-		"nicknames": ["Nick", "Nico", "Nicky", "Klaus", "Nikolai"],
-		"century": [19, 20],
-		"region": ["English"]
+		"nicknames": [
+			"Nick",
+			"Nico",
+			"Nicky",
+			"Klaus",
+			"Nikolai",
+			"Claas",
+			"Claes"
+		],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Nicole": {
 		"nicknames": ["Nikki", "Nico", "Nicki", "Nicolle"],
 		"century": [19, 20],
 		"region": ["English"]
-	},
-	"Patricia": {
-		"nicknames": ["Pat", "Patti", "Trish", "Tricia", "Patty"],
-		"century": [19, 20],
-		"region": ["English"]
-	},
-	"Patrick": {
-		"nicknames": ["Pat", "Paddy", "Rick", "Patricio"],
-		"century": [19, 20],
-		"region": ["English", "Spanish"]
 	},
 
 	"Alexis": {
@@ -160,8 +2244,8 @@
 	},
 	"Amanda": {
 		"nicknames": ["Mandy", "Manda", "Amy"],
-		"century": [19, 20],
-		"region": ["American"]
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Amy": {
 		"nicknames": ["Ames"],
@@ -173,20 +2257,10 @@
 		"century": [20],
 		"region": ["American"]
 	},
-	"Alfred": {
-		"nicknames": ["Al", "Freddie"],
-		"century": [18, 19, 20],
-		"region": ["American"]
-	},
-	"Albert": {
-		"nicknames": ["Al", "Bert", "Bertie"],
-		"century": [18, 19, 20],
-		"region": ["American"]
-	},
 	"Abigail": {
-		"nicknames": ["Abby", "Gail", "Ab"],
+		"nicknames": ["Abby", "Gail", "Ab", "Nabby"],
 		"century": [18, 19, 20],
-		"region": ["American"]
+		"region": ["English", "American"]
 	},
 	"Allen": {
 		"nicknames": ["Al"],
@@ -208,35 +2282,20 @@
 		"century": [19, 20],
 		"region": ["American"]
 	},
-	"Ann": {
-		"nicknames": ["Annie", "Nan", "Nanny"],
-		"century": [18, 19, 20],
-		"region": ["American"]
-	},
 	"Angela": {
 		"nicknames": ["Angie", "Ang", "Ange"],
 		"century": [19, 20],
 		"region": ["American"]
 	},
 	"Barbara": {
-		"nicknames": ["Barb", "Babs", "Barbie"],
-		"century": [19, 20],
-		"region": ["American"]
-	},
-	"Benjamin": {
-		"nicknames": ["Ben", "Benny", "Benji"],
+		"nicknames": ["Bab", "Babs", "Barby", "Bobbie", "Barb", "Barbie"],
 		"century": [18, 19, 20],
-		"region": ["American"]
+		"region": ["English", "American"]
 	},
 	"Bernard": {
-		"nicknames": ["Bernie", "Bern"],
-		"century": [19, 20],
-		"region": ["American"]
-	},
-	"Beatrice": {
-		"nicknames": ["Bea", "Bee", "Tris", "Betsy"],
+		"nicknames": ["Barney", "Berney", "Bernie", "Bern"],
 		"century": [18, 19, 20],
-		"region": ["American"]
+		"region": ["English", "American"]
 	},
 	"Brandon": {
 		"nicknames": ["Bran", "Brandy"],
@@ -264,38 +2323,23 @@
 		"region": ["American"]
 	},
 	"Benedict": {
-		"nicknames": ["Ben", "Benny"],
-		"century": [18, 19],
-		"region": ["American"]
+		"nicknames": ["Ben", "Bennie", "Benny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Brooklyn": {
 		"nicknames": ["Brook", "Brooke"],
 		"century": [20],
 		"region": ["American"]
 	},
-	"Catherine": {
-		"nicknames": ["Cassie", "Cate", "Cathy", "Catie", "Kate", "Katie", "Katy"],
-		"century": [18, 19, 20],
-		"region": ["American", "English", "French"]
-	},
-	"Charles": {
-		"nicknames": ["Charlie", "Chuck", "Chas", "Carl", "Carlos", "Chaz"],
-		"century": [18, 19, 20],
-		"region": ["American", "English", "Spanish", "German"]
-	},
 	"Caroline": {
-		"nicknames": ["Carrie", "Carol", "Caro", "Carolina"],
-		"century": [19, 20],
-		"region": ["English", "Spanish", "American", "German"]
-	},
-	"Charlotte": {
-		"nicknames": ["Lottie", "Char", "Charlie", "Shar"],
+		"nicknames": ["Carrie", "Carol", "Caro", "Carolina", "Cassie", "Lynn"],
 		"century": [18, 19, 20],
-		"region": ["American", "English", "French"]
+		"region": ["English", "Spanish", "American", "German"]
 	},
 	"Christopher": {
 		"nicknames": ["Chris", "Topher", "Kit", "Crist\u00f3bal", "Christof"],
-		"century": [19, 20, 18],
+		"century": [18, 19, 20],
 		"region": ["English", "Spanish", "American"]
 	},
 	"Christina": {
@@ -306,25 +2350,23 @@
 			"Kristina",
 			"Ina",
 			"Chrissy",
-			"Kristy"
+			"Kristy",
+			"Kris",
+			"Crissy",
+			"Christy"
 		],
-		"century": [19, 20],
+		"century": [18, 19, 20],
 		"region": ["English", "American", "German", "Swedish"]
 	},
 	"Cynthia": {
-		"nicknames": ["Cindy", "Cyn", "Thea"],
-		"century": [20],
-		"region": ["American"]
+		"nicknames": ["Cindy", "Cyn", "Thea", "Cintha"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Clara": {
 		"nicknames": ["Claire", "Clare", "Clarita"],
 		"century": [19, 20],
 		"region": ["American", "Spanish", "German"]
-	},
-	"Clarence": {
-		"nicknames": ["Clare", "Clarry"],
-		"century": [19, 20],
-		"region": ["American", "English"]
 	},
 	"Caleb": {
 		"nicknames": ["Cal", "Cale"],
@@ -333,28 +2375,13 @@
 	},
 	"Clifford": {
 		"nicknames": ["Cliff", "Ford"],
-		"century": [19, 20],
-		"region": ["American", "English"]
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Colleen": {
 		"nicknames": ["Collie", "Lena"],
 		"century": [20],
 		"region": ["American", "Irish"]
-	},
-	"Cornelius": {
-		"nicknames": ["Con", "Corny", "Neil"],
-		"century": [18, 19],
-		"region": ["American", "Dutch"]
-	},
-	"Deborah": {
-		"nicknames": ["Deb", "Debbie", "Debs"],
-		"century": [20],
-		"region": ["American"]
-	},
-	"David": {
-		"nicknames": ["Dave", "Davy"],
-		"century": [19, 20],
-		"region": ["American", "English"]
 	},
 	"Diana": {
 		"nicknames": ["Di", "Dee"],
@@ -362,29 +2389,19 @@
 		"region": ["American", "English"]
 	},
 	"Emily": {
-		"nicknames": ["Em", "Emmy", "Millie"],
-		"century": [19, 20],
-		"region": ["American", "English"]
-	},
-	"Eleanor": {
-		"nicknames": ["Ellie", "Nora", "Ella", "Lenore"],
+		"nicknames": ["Emmy", "Millie", "Emma", "Em"],
 		"century": [18, 19, 20],
-		"region": ["American", "English"]
+		"region": ["English", "American"]
 	},
 	"Eugene": {
 		"nicknames": ["Gene"],
-		"century": [19, 20],
-		"region": ["American"]
-	},
-	"Francis": {
-		"nicknames": ["Frank", "Frankie"],
 		"century": [18, 19, 20],
-		"region": ["American", "English"]
+		"region": ["English", "American"]
 	},
 	"Frances": {
-		"nicknames": ["Fran", "Franny", "Fanny"],
+		"nicknames": ["Fanny", "Fran", "Cissy", "Frankie", "Sis", "Franny"],
 		"century": [18, 19, 20],
-		"region": ["American", "English"]
+		"region": ["English", "American"]
 	},
 	"George": {
 		"nicknames": ["Geo", "Georgie"],
@@ -398,28 +2415,38 @@
 	},
 	"Harold": {
 		"nicknames": ["Hal", "Harry"],
-		"century": [19, 20],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
+	},
+	"Abel": {
+		"nicknames": ["Ab", "Abe", "Eb", "Ebbie"],
+		"century": [18, 19, 20],
+		"region": ["American", "Spanish", "Italian", "English"]
+	},
+	"Abiah": {
+		"nicknames": ["A.B.", "Ab", "Biah"],
+		"century": [18, 19, 20],
 		"region": ["American", "English"]
 	},
-	"Isabella": {
-		"nicknames": ["Izzy", "Bella", "Isa"],
+	"Abijah": {
+		"nicknames": ["A.B.", "Ab", "Biah"],
 		"century": [18, 19, 20],
-		"region": ["American", "Spanish", "Italian"]
+		"region": ["American", "English"]
+	},
+	"Abiel": {
+		"nicknames": ["Biel", "Ab"],
+		"century": [18, 19, 20],
+		"region": ["American", "English"]
 	},
 	"Jacob": {
-		"nicknames": ["Jake", "Jay"],
-		"century": [19, 20],
-		"region": ["American", "English"]
-	},
-	"Jennifer": {
-		"nicknames": ["Jen", "Jenny", "Jenn"],
-		"century": [20],
-		"region": ["American"]
+		"nicknames": ["Jaap", "Jake", "Jay"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Jonathan": {
-		"nicknames": ["Jon", "Jonny", "Nathan"],
-		"century": [19, 20],
-		"region": ["American"]
+		"nicknames": ["Nathan", "John", "Jon", "Jonny"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Karen": {
 		"nicknames": ["Kare", "Kay"],
@@ -431,25 +2458,15 @@
 		"century": [19, 20],
 		"region": ["American"]
 	},
-	"Lawrence": {
-		"nicknames": ["Larry", "Lawrie"],
-		"century": [18, 19, 20],
-		"region": ["American", "English"]
-	},
 	"Matthew": {
-		"nicknames": ["Matt", "Matty"],
-		"century": [19, 20],
-		"region": ["American"]
-	},
-	"Nancy": {
-		"nicknames": ["Nan", "Nanny"],
+		"nicknames": ["Matt", "Thias", "Thys", "Matty"],
 		"century": [18, 19, 20],
-		"region": ["American"]
+		"region": ["English", "American"]
 	},
 	"Olivia": {
-		"nicknames": ["Liv", "Livvy", "Livia"],
-		"century": [20],
-		"region": ["American"]
+		"nicknames": ["Ollie", "Nollie", "Livia", "Liv", "Livvy"],
+		"century": [18, 19, 20],
+		"region": ["English", "American"]
 	},
 	"Paul": {
 		"nicknames": ["Pauley"],
@@ -459,11 +2476,6 @@
 	"Quentin": {
 		"nicknames": ["Quinn", "Q"],
 		"century": [20],
-		"region": ["American"]
-	},
-	"Rachel": {
-		"nicknames": ["Rach", "Ray"],
-		"century": [19, 20],
 		"region": ["American"]
 	},
 	"Samuel": {
@@ -483,7 +2495,7 @@
 	},
 	"Victoria": {
 		"nicknames": ["Vicky", "Tori", "Vika"],
-		"century": [19, 20],
+		"century": [18, 19, 20],
 		"region": ["American", "English"]
 	},
 	"Walter": {
