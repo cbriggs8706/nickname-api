@@ -31,8 +31,14 @@ app.add_middleware(
 
 @app.get("/nicknames")
 def get_nickname_list(name: str):
-    result = get_nicknames(name, nickname_data, variant_data)
-    return {"name": name, "nicknames": result}
+    entry = get_entry(name, nickname_data)
+    all_nicknames = get_nicknames(name, nickname_data, variant_data)
+    return {
+        "name": name,
+        "nicknames": all_nicknames,
+        "century": entry.get("century", []),
+        "region": entry.get("region", [])
+    }
 
 
 @app.get("/reverse")
